@@ -1,6 +1,6 @@
 # Repository index
 
-Index into my publicly available repositories.
+Index into [wkusnierczyk](https://github.com/wkusnierczyk)'s publicly available repositories.
 
 ## Fun projects
 
