@@ -28,3 +28,7 @@ Index into my publicly available repositories.
 
 * [bloomsrv](https://github.com/wkusnierczyk/bloomsrv)  
   A high-performance, asynchronous RESTful API service that provides access to in-memory Bloom Filters implemented in the bloomlb library.
+
+* [IPS Sampler](https://github.com/wkusnierczyk/ips-sampler)  
+  IPS Sampler is a repository with references to International Patient Summary sample collections as well as tools for generating synthetic mock samples.
+  It has been created as a BWYN project to help in evaluating IPS record parser tools.
