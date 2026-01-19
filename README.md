@@ -8,6 +8,8 @@ Index into [wkusnierczyk](https://github.com/wkusnierczyk)'s publicly available 
   A collection of 10+ unconventional, minimalistic, elegant, open-source Garmin watch faces.
 * [Garmin Time template](https://github.com/wkusnierczyk/garmin-time-template)  
   A template repository for Garmin watch face projects.
+* [Spelling Bee Solver](https://github.com/wkusnierczyk/spelling-bee-solver)  
+  A service for generating words from the given letters. A toy project, exercising various modes of deploying full stack software.
 
 ## Tools
 
