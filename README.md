@@ -6,10 +6,15 @@ Index into [wkusnierczyk](https://github.com/wkusnierczyk)'s publicly available 
 
 * [Garmin watch faces](https://github.com/wkusnierczyk/garmin-watch-faces)  
   A collection of 10+ unconventional, minimalistic, elegant, open-source Garmin watch faces.
-* [Garmin Time template](https://github.com/wkusnierczyk/garmin-time-template)  
-  A template repository for Garmin watch face projects.
 * [Spelling Bee Solver](https://github.com/wkusnierczyk/spelling-bee-solver)  
   A service for generating words from the given letters. A toy project, exercising various modes of deploying full stack software.
+
+## Templates
+
+* [Garmin Time Template](https://github.com/wkusnierczyk/garmin-time-template)  
+  A template repository for Garmin watch face projects.
+* [Multideployment Fullstack Template](https://github.com/wkusnierczyk/multideployment-fullstack-template)
+  A template repository for fullstack (backend + frontend) projects deployable natively, with Docker, with Docker Compose, with Minikube, and to a K8S cluster on GCP.
 
 ## Tools
 
