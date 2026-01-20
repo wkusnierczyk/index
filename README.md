@@ -13,7 +13,7 @@ Index into [wkusnierczyk](https://github.com/wkusnierczyk)'s publicly available 
 
 * [Garmin Time Template](https://github.com/wkusnierczyk/garmin-time-template)  
   A template repository for Garmin watch face projects.
-* [Multideployment Fullstack Template](https://github.com/wkusnierczyk/multideployment-fullstack-template)
+* [Multideployment Fullstack Template](https://github.com/wkusnierczyk/multideployment-fullstack-template)  
   A template repository for fullstack (backend + frontend) projects deployable natively, with Docker, with Docker Compose, with Minikube, and to a K8S cluster on GCP.
 
 ## Tools
