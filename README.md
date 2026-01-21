@@ -39,3 +39,8 @@ Index into [wkusnierczyk](https://github.com/wkusnierczyk)'s publicly available 
 * [IPS Sampler](https://github.com/wkusnierczyk/ips-sampler)  
   IPS Sampler is a repository with references to International Patient Summary sample collections as well as tools for generating synthetic mock samples.
   It has been created as a BWYN project to help in evaluating IPS record parser tools.
+
+* [Read Aloud](https://github.com/wkusnierczyk/read-aloud)  
+  Read Aloud is a BWYN (Buiild What You Need) convenience mini-project exposing text-to-speech facilty as a CLI, a service, and a GUI.
+
+
