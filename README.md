@@ -18,6 +18,9 @@ Index into [wkusnierczyk](https://github.com/wkusnierczyk)'s publicly available 
 
 ## Tools
 
+* [Raku MCP SDK](https://github.com/wkusnierczyk/raku-mcp-sdk)  
+  [**WIP**] Implementation of Model Context Protocol SDK for the programming language Raku (Perl6).
+
 * [Pitch Architect](https://github.com/wkusnierczyk/pitch-architect)  
   A conversational startup pitch, deck, and business document generator.
 
