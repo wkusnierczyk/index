@@ -24,6 +24,9 @@ Index into [wkusnierczyk](https://github.com/wkusnierczyk)'s publicly available 
 * [Pitch Architect](https://github.com/wkusnierczyk/pitch-architect)  
   A conversational startup pitch, deck, and business document generator.
 
+* [GitHub Repo Setup Script](https://gist.github.com/wkusnierczyk/84f6b3bae96e495d99d919e749996a92)  
+  A shell script to create a GitHub repository using the command line tool `gh`, using customozable settings with defaults. 
+
 * [ttf2bmp](https://github.com/wkusnierczyk/ttf2bmp)  
   A robust, efficient command-line tool written in Go that converts TrueType Fonts (TTF) into AngelCode BMFont format (BMP image + FNT descriptor).
 
