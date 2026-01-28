@@ -24,8 +24,8 @@ Index into [wkusnierczyk](https://github.com/wkusnierczyk)'s publicly available 
 * [Pitch Architect](https://github.com/wkusnierczyk/pitch-architect)  
   A conversational startup pitch, deck, and business document generator.
 
-* [GitHub Repo Setup Script](https://gist.github.com/wkusnierczyk/84f6b3bae96e495d99d919e749996a92)  
-  A shell script to create a GitHub repository using the command line tool `gh`, using customozable settings with defaults. 
+* [Compensation Dojo](https://github.com/wkusnierczyk/compensation-dojo)  
+  A realistic compensation negotiation simulator, backed by an LLM model (ChatGPT).
 
 * [ttf2bmp](https://github.com/wkusnierczyk/ttf2bmp)  
   A robust, efficient command-line tool written in Go that converts TrueType Fonts (TTF) into AngelCode BMFont format (BMP image + FNT descriptor).
@@ -48,6 +48,9 @@ Index into [wkusnierczyk](https://github.com/wkusnierczyk)'s publicly available 
 * [IPS Sampler](https://github.com/wkusnierczyk/ips-sampler)  
   IPS Sampler is a repository with references to International Patient Summary sample collections as well as tools for generating synthetic mock samples.
   It has been created as a BWYN project to help in evaluating IPS record parser tools.
+  
+* [GitHub Repo Setup Script](https://gist.github.com/wkusnierczyk/84f6b3bae96e495d99d919e749996a92)  
+  A shell script to create a GitHub repository using the command line tool `gh`, using customozable settings with defaults. 
 
 * [Read Aloud](https://github.com/wkusnierczyk/read-aloud)  
   Read Aloud is a BWYN (Buiild What You Need) convenience mini-project exposing text-to-speech facilty as a CLI, a service, and a GUI.
