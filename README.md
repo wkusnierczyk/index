@@ -8,6 +8,8 @@ Index into [wkusnierczyk](https://github.com/wkusnierczyk)'s publicly available 
   A collection of 10+ unconventional, minimalistic, elegant, open-source Garmin watch faces.
 * [Spelling Bee Solver](https://github.com/wkusnierczyk/spelling-bee-solver)  
   A service for generating words from the given letters. A toy project, exercising various modes of deploying full stack software.
+* [LinkedOut](https://github.com/wkusnierczyk/linkedout)  
+  Adaptive LinkedIn Post Filter (currently in private beta testing)
 
 ## Templates
 
