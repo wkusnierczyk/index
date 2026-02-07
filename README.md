@@ -9,7 +9,7 @@ Index into [wkusnierczyk](https://github.com/wkusnierczyk)'s publicly available 
 * [Spelling Bee Solver](https://github.com/wkusnierczyk/spelling-bee-solver)  
   A service for generating words from the given letters. A toy project, exercising various modes of deploying full stack software.
 * [LinkedOut](https://github.com/wkusnierczyk/linkedout)  
-  Adaptive LinkedIn Post Filter (currently in private beta testing)
+  Adaptive LinkedIn Post Filter (in beta testing)
 
 ## Templates
 
