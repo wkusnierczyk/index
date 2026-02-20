@@ -20,6 +20,11 @@ Index into [wkusnierczyk](https://github.com/wkusnierczyk)'s publicly available 
 
 ## Tools
 
+* [AIgent](https://github.com/wkusnierczyk/aigent)  
+  A library and CLI tool for managing AI agent skill definitions.  
+  Available as [`aigent`](https://github.com/wkusnierczyk/aigent) (Rust) and [`aigent-skills`](https://github.com/wkusnierczyk/aigent-skills) (Raku).
+  Both implementations are fully compliant with the Anthropic specification and reference implementation; the Rust implementation is richer in additional features.
+
 * [Raku MCP SDK](https://github.com/wkusnierczyk/raku-mcp-sdk)  
   [**WIP**] Implementation of Model Context Protocol SDK for the programming language Raku (Perl6).
 
